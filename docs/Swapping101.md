@@ -51,7 +51,7 @@ Before diving into the architecture of face swapping, it's important to understa
 - *Restorers*: GFPGAN, CodeFormer, RestorerFormer++, VQFT-v2  
 - *Alignments*: Original / Blend / Reference  
 
-[See FaceParserOverview.md](./FaceParsersOverview.md)
+[See FaceParsersOverview.md](./FaceParsersOverview.md)
 
 **Output**: Enhanced face textures that preserve identity and motion consistency.  
 
